@@ -7,7 +7,7 @@ Some info for the antfarmkeyboard D and D game!
 
 We'll start with the one shot [Vecna: Nest of the Eldritch Eye](https://www.dndbeyond.com/sources/vnee/vecna-nest-of-the-eldritch-eye) and then kick off [Vecna: Eve of Ruin](https://www.dndbeyond.com/sources/veor).
 
-We'll use [DND Beyond](dndbeyond.com) for character sheets, and [roll20](roll20.net) for virtual table top.
+We'll use [DND Beyond](https://dndbeyond.com) for character sheets, and [roll20](https://roll20.net) for virtual table top.
 
 Tentatively scheduled for Saturday nights, 8:30-11:30 eastern, starting July 6 2024
 
